@@ -1,6 +1,6 @@
 [submodule "ext/mathematical/lasem"]
   path = ext/mathematical/lasem
-	url = https://github.com/specificationDeploy/lasem.git
+	url = https://github.com/specificationDeploy/lasem
   ignore = dirty
 	branch = main
 [submodule "ext/mathematical/mtex2MML"]
