@@ -5,5 +5,5 @@
 	branch = main
 [submodule "ext/mathematical/mtex2MML"]
 	path = ext/mathematical/mtex2MML
-	url = https://github.com/gjtorikian/mtex2MML
+	url = https://github.com/specificationDeploy/mtex2MML
   ignore = dirty
